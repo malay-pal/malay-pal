@@ -4,7 +4,7 @@ I completed PhD in BioNanoTechnology from Indian Institute of Science (IISc), In
 - 👀 I’m interested in many cutting-edge topics which indclude Machine Leanring, Deep Learning, Medical Imaging, Semiconductor Metrology, BioNanoTechnology, Microscopy, Digital Patholohy. 
 - 👀 I’m currently learning cloud based ML. 
 - 👀 I’m looking to collaborate on ML based projects. 
-- 👀 You can find me at malaypal.physics@yahoo.in
+- 👀 You can find me at malay@alum.iisc.ac.in
 
 <!---
 malay-pal/malay-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
